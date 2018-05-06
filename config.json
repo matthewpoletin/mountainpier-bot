@@ -1,0 +1,20 @@
+{
+	"host": "irc.chat.twitch.tv",
+	"port": 443,
+
+	"username": "mountainpierbot",
+	"oauthToken": "",
+
+	"channels": [
+		"mountainpier"
+	],
+
+	"accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYXR0aGV3UG9sZXRpbiIsImV4cCI6MTUyNTYyMDQxN30.rF_2JR7AvzOERHXhVW32lKWo6py0lb6ibS1Kv-Y13AhDr5x5jSeYm-sztxYrsRGYk8j8qkJ_bNoxHuqN_6ehWA",
+
+	"dev": {
+		"api": "http://localhost:8549"
+	},
+	"prod": {
+		"api": "http://api.mountainpier.ru"
+	}
+}
